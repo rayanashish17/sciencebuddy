@@ -1,4 +1,4 @@
-# sciencebuddy
+# sciencebuddy - expl(ai)n GPT
 LLM Science Research Assistant for High Schoolers
 
 # Disclaimer and Warning 
